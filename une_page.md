@@ -1,1 +1,1 @@
-(avec un lien)[autre_page.md]
+[avec un lien](autre_page.md)
